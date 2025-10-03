@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- Botões para as opções do jogador -->
 
     <ImageView
         android:id="@+id/imgPedra"
@@ -34,14 +33,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         app:srcCompat="@drawable/padrao" />
-
-    <!-- Imagem do App -->
-
-    <!-- Texto do resultado -->
-
-    <!-- Texto do placar -->
-
-    <!-- Botão de reiniciar -->
 
     <TextView
         android:id="@+id/txtResultado"
